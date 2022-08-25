@@ -5,7 +5,7 @@ const DYNAMIC_CAHCE_NAME = "dynamic-1";
 const INMUTABLE_CAHCE_NAME = "inmutable-1";
 
 const APP_SHELL = [
-  "/",
+  // "/",
   "index.html",
   "css/style.css",
   "img/favicon.ico",
